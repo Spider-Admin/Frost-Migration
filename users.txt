@@ -1,0 +1,15 @@
+artur8ur = Jan Gerritsen <frost.artur@googlemail.com>
+bback = Karsten Graul <bback@users.sourceforge.net>
+feuerblume = Stefan Majewski <feuerblume@users.sourceforge.net>
+indeyets = Alexey Zakhlestin <indeyets@users.sourceforge.net>
+jantho = Jan-Thomas Czornack <jantho@users.sourceforge.net>
+kevloral = José Manuel Arnesto <kevloral@gmail.com>
+kgraul = Karsten Graul <kgraul@users.sourceforge.net>
+nels = Benoit Laniel <nels@users.sourceforge.net>
+properyawn = James Blue <nels@users.sourceforge.net>
+root = root <root@users.sourceforge.net>
+saces = saces <saces@users.sourceforge.net>
+sleontux = sleontux <sleontux@users.sourceforge.net>
+zlatinb = Zlatin Balevsky <zlatinb@users.sourceforge.net>
+(no author) = no author <no-author@users.sourceforge.net>
+Spider-Admin = Spider-Admin <Spider-Admin@proton.me>
